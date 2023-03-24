@@ -246,9 +246,9 @@ do { \
 				//TAwTV
 				const float u = 0.05;
 				const float pi = 3.1415926;
-				if(df[0] == u || df[0] > u)		df[0]=u;
-				if(df[1] == u || df[1] > u)		df[1]=u;
-				if(df[2] == u || df[2] > u)		df[2]=u;
+				if(df[0] == u || df[0] > u)	df[0]=u;
+				if(df[1] == u || df[1] > u)	df[1]=u;
+				if(df[2] == u || df[2] > u)	df[2]=u;
 				if(dfi[0] == u || dfi[0] > u)	dfi[0]=u;
 				if(dfi[1] == u || dfi[1] > u)	dfi[1]=u;
 				if(dfi[2] == u || dfi[2] > u)	dfi[2]=u;
