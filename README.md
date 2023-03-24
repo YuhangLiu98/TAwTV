@@ -1,7 +1,6 @@
 # code TAwTV
 ***************************************************************************
-       Cone Beam Computed Tomography Based on Truncated Adaptive 
-                     Weight Total Variation
+Cone Beam Computed Tomography Based on Truncated Adaptive Weight Total Variation
 ***************************************************************************     
  Copyright:   Yuhang Liu, Yi Liu, Pengcheng Zhang, Rongbiao Yan, Lei Wang 
               Wengting Liu, Zhiguo Gui.                 
