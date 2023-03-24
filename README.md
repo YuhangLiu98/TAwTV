@@ -5,7 +5,6 @@ Cone Beam Computed Tomography Based on Truncated Adaptive Weight Total Variation
  Copyright:   Yuhang Liu, Yi Liu, Pengcheng Zhang, Rongbiao Yan, Lei Wang 
               Wengting Liu, Zhiguo Gui.                 
 ***************************************************************************
-***************************************************************************
   TAwTV is an improved model based on the classic TV. In this project, 
   TAwTV is used in CT reconstruction. The method of calling the function 
   can be viewed in IncART.cpp.
