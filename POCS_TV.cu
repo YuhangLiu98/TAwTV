@@ -198,7 +198,7 @@ do { \
 			}
 			else{
 				//exp type
-				float wx=__expf(-(df[0]/delta)*(df[0]/delta));
+				/*float wx=__expf(-(df[0]/delta)*(df[0]/delta));
 				float wy=__expf(-(df[1]/delta)*(df[1]/delta));
 				float wz=__expf(-(df[2]/delta)*(df[2]/delta));
         
@@ -212,7 +212,7 @@ do { \
         
 				float wxk=__expf(-(dfk[0]/delta)*(dfk[0]/delta));
 				float wyk=__expf(-(dfk[1]/delta)*(dfk[1]/delta));
-				float wzk=__expf(-(dfk[2]/delta)*(dfk[2]/delta));
+				float wzk=__expf(-(dfk[2]/delta)*(dfk[2]/delta));*/
 
 				/*if(wx == -u || wx < -u)	wx=-u;
 				if(wy == -u || wy < -u)	wy=-u;
@@ -244,7 +244,7 @@ do { \
 				float wzk=1/(abs(dfk[2])+eps1);*/
 
 				//TAwTV
-				/*const float u = 0.05;
+				const float u = 0.05;
 				const float pi = 3.1415926;
 				if(df[0] == u || df[0] > u)		df[0]=u;
 				if(df[1] == u || df[1] > u)		df[1]=u;
@@ -286,7 +286,7 @@ do { \
         
 				float wxk=(cos(pi*dfk[0]/u)+1)/2;
 				float wyk=(cos(pi*dfk[1]/u)+1)/2;
-				float wzk=(cos(pi*dfk[2]/u)+1)/2;*/
+				float wzk=(cos(pi*dfk[2]/u)+1)/2;
 
 				/*float wx=__expf(-(df[0]/delta)*(df[0]/delta));
 				float wy=__expf(-(df[1]/delta)*(df[1]/delta));
