@@ -13,8 +13,8 @@ Cone Beam Computed Tomography Based on Truncated Adaptive Weight Total Variation
 ***************************************************************************
   More detail can be found in [1]
   
-  [1] Liu Yuhang, Liu Yi, Zhang Pengcheng, Yan Rongbiao, Wang Lei, Liu Wenting, 
-  Gui Zhiguo. Cone-beam Computed Tomography Based on Truncated Adaptive-weight 
+  [1] Yuhang Liu, Yi Liu, Pengcheng Zhang, Rongbiao Yan, Lei Wang Wengting Liu, 
+  Zhiguo Gui. Cone-beam Computed Tomography Based on Truncated Adaptive-weight 
   Total Variation[J]. NDT & E International, 2022, 133:102755.
 ***************************************************************************
  Please cite our paper if you use any part of our source code.
