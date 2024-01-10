@@ -6,8 +6,7 @@ Cone Beam Computed Tomography Based on Truncated Adaptive Weight Total Variation
               Wengting Liu, Zhiguo Gui.                 
 ***************************************************************************
   TAwTV is an improved model based on the classic TV. In this project, 
-  TAwTV is used in CT reconstruction. The method of calling the function 
-  can be viewed in IncART.cpp.
+  TAwTV is used in CT reconstruction. 
   
   In addition to TAwTV, POCS_TV.cu also includes TV, TTV, AwTV, and HOTV.
 ***************************************************************************
